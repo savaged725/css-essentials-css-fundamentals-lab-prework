@@ -34,13 +34,16 @@ figcaption {
   
   #details {
     display: block;
-    float: left;
+    
     
     
   }
   
   .div1, .div2, .div3, .div4 {
     float: left;
+    background-color: red;
+    text-align: center;
+    width: 25%;
   }
 
 
