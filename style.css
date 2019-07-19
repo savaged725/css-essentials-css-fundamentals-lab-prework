@@ -26,17 +26,8 @@ figcaption {
   text-align: center;
 }
 
-
-#featured-property p {
-  display: block;
-  width: 800px;
-  text-align: left;
- 
-  }
   
-
-  
-  #details {
+ #details {
     display: block;
     
     
@@ -48,6 +39,11 @@ figcaption {
     background-color: red;
     text-align: center;
     width: 25%;
+  }
+  
+  p {
+    width: 800px;
+    text-align: center;
   }
 
 
