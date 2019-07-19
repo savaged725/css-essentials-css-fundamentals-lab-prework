@@ -27,15 +27,13 @@ figcaption {
 }
 
 
-#featured-property {
+#featured-property p {
   width: 800px;
   text-align: left;
  
   }
   
-  p {
-    text-align: left;
-  }
+
   
   #details {
     display: block;
