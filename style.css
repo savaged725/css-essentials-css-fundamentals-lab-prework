@@ -43,6 +43,7 @@ figcaption {
   
   .p1 {
     text-align: center;
+    max-width: 800px;
   }
 
 
