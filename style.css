@@ -33,6 +33,10 @@ figcaption {
  
   }
   
+  p {
+    text-align: left;
+  }
+  
   #details {
     display: block;
     
