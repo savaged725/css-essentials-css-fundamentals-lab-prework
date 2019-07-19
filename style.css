@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+text-align: center;
+}
+
+.image {
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+
+ .nav1, .nav2, .nav3, .nav4, .nav5, .nav6 {
+  padding: 0 10px 0 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 15px;
+  text-align: center;
+}
+
+  
+ #details {
+    display: block;
+    
+    
+    
+  }
+  
+  .div1, .div2, .div3, .div4 {
+    float: left;
+    background-color: red;
+    text-align: center;
+    width: 25%;
+  }
+  
+  .p1 {
+    margin: 0 auto;
+    max-width: 800px;
+    text-align: center;
+  
+  }
+
+
